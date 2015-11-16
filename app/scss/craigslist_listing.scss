@@ -1,0 +1,25 @@
+#clMessageDiv {
+    height: 100%;
+    width: 300px;
+    float: right;
+    position: absolute;
+    top: 0;
+    right: -300px;
+    background-color: lightgrey;
+}
+
+#pagecontainer .body {
+    position: relative;
+}
+
+.message-log {
+    margin:20px;
+    background-color: white;
+    width: 80%;
+    height: 150px;
+
+}
+
+.message-input-box {
+    width:80%;
+}
