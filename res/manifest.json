@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+
+    "name": "Craigslist Notes Extension",
+    "description": "This Extension will allow you to write notes about different Craigslist listings and view those notes on the page",
+    "version": "1.0",
+
+    "permissions": [
+      "activeTab"
+    ],
+
+    "content_scripts": [
+        {
+            "matches": ["*://*.craigslist.org/*.html"],
+            "css": ["craigslist_listing.css"],
+            "js": ["craigslist_listing.js"]
+        }
+    ]
+}
