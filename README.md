@@ -1,3 +1,5 @@
+[![Contact me on Codementor](https://cdn.codementor.io/badges/contact_me_github.svg)](https://www.codementor.io/gmuresan?utm_source=github&utm_medium=button&utm_term=gmuresan&utm_campaign=github)
+
 React is a great new way to write the frontend of your app. It allows you to separate each component of your UI into a separate class which reduces the complexity that you need to worry about at any one time. You can freely make changes to one component without having to worry about how it will affect every other part of your website.
 
 Most React tutorials focus on starting with a blank web page on your own website and adding your own HTML code to create the UI. Today I'll show you how to use React to add some UI on top of a current website. We're going to do this by creating a [Chrome Extension](https://developer.chrome.com/extensions), which is a small software program that can modify and enhance the functionality of the Chrome browser. After this tutorial you should be able to easily take what you've learned and use React to create Firefox and Safari extensions with a little modification.
